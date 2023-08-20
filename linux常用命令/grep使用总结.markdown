@@ -8,7 +8,7 @@
 -r : 递归匹配子目录,例如如下  
 ![grep_1](https://github.com/weihong0709/linux_study/blob/master/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/images/grep_1.png)  
 -l : 查询多文件时只显示匹配的文件名 
-![grep_l](https://github.com/weihong0709/linux_study/blob/master/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/images/grep_l.jpg) 
+![grep_l](https://github.com/weihong0709/linux_study/blob/master/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/grep_l.jpg) 
 ## 33
 ### 33
 
